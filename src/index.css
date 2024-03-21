@@ -1,0 +1,13 @@
+.dark {
+  background-color: rgb(4, 4, 35);
+  color: white;
+  /* min-height: 100vh;
+  height: auto; */
+}
+.dark .navbar {
+  background-color: rgb(20, 20, 83);
+}
+
+.dark .navbar * {
+  background-color: rgb(20, 20, 83);
+}
